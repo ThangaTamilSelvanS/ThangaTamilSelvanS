@@ -22,7 +22,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,java,cpp,python" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,java,c,c++" /><br><br>
   <img src="https://skillicons.dev/icons?i=photoshop" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Digital%20Marketing-blue?style=for-the-badge"/>
